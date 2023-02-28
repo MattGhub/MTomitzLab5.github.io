@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Science, Messiah College, 2011
+* Certificates in GIS, CCBC, 2018
+* Masters in GIS, UMBC, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Atkins-SNC-Lavalin
+  * GIS Analyst 2
+  * Develop mapping products for FEMA's NFIP
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* AECOM
+  * GIS Analyst 2
+  * Develop maps for FEMA's NFIP
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Georeferencing
+* Developing and implementing topologies
+* Modelbuilding
+* Basic compentency in SQL, Python, R, Github
+* Database development
+* Making maps!
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*None
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+*Nada
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*Zilch
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*Blank
