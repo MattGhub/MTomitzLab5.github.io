@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -199,7 +199,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -211,7 +211,7 @@ defaults:
       author_profile: true
   # _teaching
   - scope:
-      path: ""
+      path: "https://github.com/MattGhub/MattGhub.github.io/tree/master/_teaching"
       type: teaching
     values:
       layout: single
@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "https://github.com/MattGhub/MattGhub.github.io/tree/master/_publications"
       type: publications
     values:
       layout: single
@@ -242,8 +242,8 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
