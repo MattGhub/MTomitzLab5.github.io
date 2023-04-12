@@ -10,7 +10,6 @@ locale                   : "en-US"
 title                    : "Class 687 Github Website"
 title_separator          : "-"
 name                     : &name "Matt Tomitz"
-avatar                   : "20200315_133812_500x300.jpg"
 description              : &description "very smart guy, maybe"
 url                      : https://github.com/MattGhub/MTomitzLab5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt Tomitz"
-  avatar           : "20200315_133812.jpg"
+  avatar           : "profile.png"
   bio              : "Grad student and GIS professional.  Learning QGIS, R language, and Github.  Not a fan of asparagus."
   location         : "UMBC Catonsville"
   employer         : "FEMA, indirectly"
