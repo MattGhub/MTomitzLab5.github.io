@@ -7,9 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matt Tomitz / My Website"
+title                    : "Class 687 Github Website"
 title_separator          : "-"
 name                     : &name "Matt Tomitz"
+avatar                   : "20200315_133812_500x300.jpg"
 description              : &description "very smart guy, maybe"
 url                      : https://github.com/MattGhub/MTomitzLab5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "matthew-tomitz-6a618939/"
   orcid            :
   pinterest        :
   soundcloud       :
