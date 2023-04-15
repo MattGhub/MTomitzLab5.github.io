@@ -1,6 +1,8 @@
 ---
-title: "TEST PORTFOLIO"
-excerpt:  "I need to add a 500x300 png"
+title: "Lab 1 Screenshots"
+excerpt:  "Screens from the first lab.  <br/><img src='/images/Chapter2.png'>
+<br/><img src='/images/Chapter3.png'>
+<br/><img src='/images/Chapter4.png'>"
 collection:  portfolio
 ---
 
