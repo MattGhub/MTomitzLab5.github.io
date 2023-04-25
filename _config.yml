@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RAM MANDAVA's portfolio"
+title                    : "Matt Tomitz's portfolio"
 title_separator          : "-"
-name                     : &name "Ram Mandava"
-description              : &description "personal description"
+name                     : &name "Matt Tomitz"
+description              : &description "I stole this from Ram!"
 url                      : https://MattGhub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MattGhub/MattGhub.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "rmandav1@umbc.edu"
+    email                : "mtomitz2@umbc.edu"
   generatedFields:
     date:
       type               : "date"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ram Mandava"
+  name             : "MAtt Tomitz"
   avatar           : "profile.png"
   bio              : "UMBC Student, Master of Professional Studies (M.P.S.) in GIS at UMBC <a href='https://ges.umbc.edu/'>Geography + Environmental Systems</a>."
   location         : "Baltimore, MD"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "rmandav1@umbc.edu"
+  email            : "mtomitz2@umbc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mandavaram"
+  github           : "MattGhub"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ram-mandava-9a421012/"
+  linkedin         : "matthew-tomitz-6a618939/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
