@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Matt Tomitz's portfolio"
 title_separator          : "-"
-name                     : &name "Matt Tomitz"
+name                     : &name "MATT TOMITZ"
 description              : &description "I stole this from Ram!"
 url                      : https://MattGhub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "MAtt Tomitz"
+  name             : "MATT TOMITZ"
   avatar           : "profile.png"
   bio              : "UMBC Student, Master of Professional Studies (M.P.S.) in GIS at UMBC <a href='https://ges.umbc.edu/'>Geography + Environmental Systems</a>."
   location         : "Baltimore, MD"
