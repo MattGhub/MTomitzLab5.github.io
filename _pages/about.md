@@ -12,6 +12,23 @@ This is the front page of a website that is powered by the [academicpages templa
 
 687 - Advanced Applications in GIS
 
+About Me, According to ChatGPT
+======
+A professional flood mapper is a geospatial professional who specializes in creating flood maps. This person has knowledge and expertise in using remote sensing, GIS (Geographic Information Systems), and hydrological modeling techniques to identify and map areas that are at risk of flooding.
+
+Professional flood mappers may work in government agencies, consulting firms, or non-profit organizations that are involved in flood risk management, disaster response, and urban planning. They use a variety of data sources, including satellite imagery, aerial photography, topographic maps, and historical flood data, to create accurate and up-to-date flood maps.
+
+Their work may involve conducting field surveys to collect data on land use, soil type, and elevation, as well as working with stakeholders such as local officials, community members, and emergency responders to understand their needs and concerns related to flooding.
+
+The maps created by professional flood mappers can be used for a variety of purposes, including:
+
+- Identifying areas at risk of flooding and developing flood mitigation plans
+- Planning for new development and infrastructure in flood-prone areas
+- Informing emergency response efforts during flood events
+- Supporting insurance and lending decisions related to flood risk
+- Overall, professional flood mappers play an important role in helping communities and organizations prepare for and respond to flood events, which are becoming     increasingly common due to climate change and other factors.
+
+
 Lorem Ipsum History
 ======
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
