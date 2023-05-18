@@ -1,6 +1,6 @@
 ---
 title: "Kolmogorov-Smirnoff Test: Crime Points"
-excerpt: "On either the X-coordinate or the points themselves, the data are definitely not random..<br/><img src='/images/Kolm-Smirn on mydensity.png'>"
+excerpt: "On either the X-coordinate or the points themselves, the data are definitely not random.<br/><img src='/images/Kolm-Smirn on mydensity.png'>"
 collection: portfolio
 ---
 
