@@ -2,7 +2,7 @@
 title: "Kansas City Crime Presentation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'PRESENTATION'
 date: 2023-5-18
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/Kansas City Crime Analysis.pdf'
